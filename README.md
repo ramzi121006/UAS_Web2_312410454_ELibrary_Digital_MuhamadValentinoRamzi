@@ -322,7 +322,7 @@ elibrary_db
 
 ### Data Peminjaman
 
-(Tambahkan screenshot halaman peminjaman)
+!([Tambahkan screenshot halaman peminjama](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/5648275887d7883a55a9994bfc8bbc9259552877/hasil%20ss-san%20web/Screenshot%202026-06-25%20112445.png)
 
 ### Dokumentasi API menggunakan Postman
 
