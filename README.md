@@ -361,7 +361,7 @@ E-Library Digital berhasil memenuhi kebutuhan pengelolaan perpustakaan secara di
 
 ## Repository GitHub
 
-[ambahkan link repository GitHub Anda di sini](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi.git).
+[Tambahkan link repository GitHub Anda di sini](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi.git).
 
 ---
 
