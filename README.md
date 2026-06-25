@@ -294,7 +294,7 @@ elibrary_db
 
 ### Login
 
-([Tambahkan screenshot halaman login](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/a91343a291c1ed83acfa91fdaba071efcd496bdc/hasil%20ss-san%20web/Screenshot%202026-06-25%20110306.png))
+![Tambahkan screenshot halaman login](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/a91343a291c1ed83acfa91fdaba071efcd496bdc/hasil%20ss-san%20web/Screenshot%202026-06-25%20110306.png)
 
 ### Dashboard
 
