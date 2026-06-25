@@ -318,7 +318,7 @@ elibrary_db
 
 ### Data Anggota
 
-(Tambahkan screenshot halaman anggota)
+![Tambahkan screenshot halaman anggota](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/e8ea6d3f0eb31a41a0c6a00c82756bb2dd69a2a0/hasil%20ss-san%20web/Screenshot%202026-06-25%20112412.png)
 
 ### Data Peminjaman
 
