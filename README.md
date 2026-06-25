@@ -306,7 +306,7 @@ elibrary_db
 
 ### Data Kategori
 
-(Tambahkan screenshot halaman kategori)
+![Tambahkan screenshot halaman kategori](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/c29c2bf1ce107b4d68ab7e5699dd5aa0ced5a8ac/hasil%20ss-san%20web/Screenshot%202026-06-25%20112246.png)
 
 ### Data Penulis
 
