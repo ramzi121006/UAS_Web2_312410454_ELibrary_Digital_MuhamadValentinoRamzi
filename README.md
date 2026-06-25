@@ -314,7 +314,7 @@ elibrary_db
 
 ### Data Penerbit
 
-(Tambahkan screenshot halaman penerbit)
+!([Tambahkan screenshot halaman penerbit](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/0b745dad9cd52bf99b85d412d29a47d7c43a4f87/hasil%20ss-san%20web/Screenshot%202026-06-25%20112332.png)
 
 ### Data Anggota
 
