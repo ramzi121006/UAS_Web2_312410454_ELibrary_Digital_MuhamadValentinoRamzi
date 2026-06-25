@@ -298,7 +298,7 @@ elibrary_db
 
 ### Dashboard
 
-!([Tambahkan screenshot dashboard](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/58ddd1c93cd2710396da66eef0742efa6dba7d50/hasil%20ss-san%20web/Screenshot%202026-06-25%20112129.png))
+![Tambahkan screenshot dashboard](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/58ddd1c93cd2710396da66eef0742efa6dba7d50/hasil%20ss-san%20web/Screenshot%202026-06-25%20112129.png)
 
 ### Data Buku
 
