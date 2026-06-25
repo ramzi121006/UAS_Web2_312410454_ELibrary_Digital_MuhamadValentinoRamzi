@@ -298,7 +298,7 @@ elibrary_db
 
 ### Dashboard
 
-(Tambahkan screenshot dashboard)
+!([Tambahkan screenshot dashboard](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi/blob/58ddd1c93cd2710396da66eef0742efa6dba7d50/hasil%20ss-san%20web/Screenshot%202026-06-25%20112129.png))
 
 ### Data Buku
 
@@ -361,11 +361,11 @@ E-Library Digital berhasil memenuhi kebutuhan pengelolaan perpustakaan secara di
 
 ## Repository GitHub
 
-[Tambahkan link repository GitHub Anda di sini](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi.git).
+![Tambahkan link repository GitHub Anda di sini](https://github.com/ramzi121006/UAS_Web2_312410454_ELibrary_Digital_MuhamadValentinoRamzi.git).
 
 ---
 
 ## Video Presentasi
 
-[Tambahkan link video presentasi YouTube di sini.
+![Tambahkan link video presentasi YouTube di sini.
 ](https://youtu.be/nBTvwUEDyNI)
